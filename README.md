@@ -10,6 +10,8 @@ I specialize in Full Stack development, API design, and system architecture, Dat
 
 
 
+
+
 💡 Tech Stack
 
 💻 Languages: JavaScript, TypeScript, Python
@@ -21,12 +23,16 @@ I specialize in Full Stack development, API design, and system architecture, Dat
 
 
 
+
+
 📌 Featured Projects
 
 🔹 E-Commerce API (Secure & Scalable) – High-performance backend for an e-commerce platform
 🔹 E-Commerce API (MVC) – Modular architecture for easy maintenance,
 🔹 ClickStore – E-Commerce Frontend – User-friendly online shopping experience
 🔹 Fashion Store – Angular & TypeScript – Scalable e-commerce frontend
+
+
 
 
 
