@@ -7,7 +7,7 @@ I specialize in Full Stack development, API design, and system architecture, Dat
 
 🔹 Currently Learning: Enhancing API security, optimizing database queries, and improving UI/UX responsiveness.
 
-🔹 Recent Projects: Backend APIs, Scalable E-Commerce Platforms, Full-Stack Web Applications.
+🔹 Recent Projects: Backend APIs, Scalable E-Commerce Platforms, Full-Stack Web Applications.<br>
 
 
 
@@ -25,7 +25,7 @@ I specialize in Full Stack development, API design, and system architecture, Dat
 
 🛢️ Databases: MongoDB, SQL
 
-🚀 Tools & Others: Git, GitHub, Postman, Docker, Linux, Power BI
+🚀 Tools & Others: Git, GitHub, Postman, Docker, Linux, Power BI<br>
 
 
 
@@ -39,7 +39,7 @@ I specialize in Full Stack development, API design, and system architecture, Dat
 
 🔹 ClickStore – E-Commerce Frontend – User-friendly online shopping experience
 
-🔹 Fashion Store – Angular & TypeScript – Scalable e-commerce frontend
+🔹 Fashion Store – Angular & TypeScript – Scalable e-commerce frontend<br>
 
 
 
