@@ -17,7 +17,7 @@ _<br>
 
 💻 Languages: JavaScript, TypeScript, Python
 
-🛠️ Backend: Node.js, Express.js, MongoDB, Mongoose
+🛠️ Backend: Node.js, Express.js, Nest, MongoDB, Mongoose, MYSQL, Type ORM
 
 🌐 Frontend: React.js, Angular, Tailwind CSS
 
