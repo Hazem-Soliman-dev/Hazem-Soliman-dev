@@ -7,7 +7,7 @@
 Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-integrated applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazem-soliman-swd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hazem-soliman-dev-swvazs6.gamma.site/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.soliman.dev@gmail.com)
 
 </div>
@@ -281,7 +281,7 @@ I'm open to **full-time roles** as Software Engineer, Full-Stack Developer, Back
 
 [![Email](https://img.shields.io/badge/hazem.soliman.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.soliman.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazem-soliman-swd)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hazem-soliman-dev-swvazs6.gamma.site/)
 
 ---
 
