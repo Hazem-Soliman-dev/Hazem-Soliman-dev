@@ -102,7 +102,7 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 
 **Highlights:** End-to-end order flow · Stock synchronization · Bilingual support · Query optimization with Redis caching
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/kontainar)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/Kontainar_system)
 
 ---
 
@@ -117,7 +117,7 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 - RBAC with 4 roles · Bilingual (Arabic RTL / English LTR)
 - TanStack Table data grids · Recharts analytics · Dark/light mode
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/crm-dashboard)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/CRM-Dashboard)
 
 ---
 
@@ -139,7 +139,7 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 | Payment Received | Cash | Accounts Receivable |
 | Revenue Recognized | Deferred Revenue | Subscription Revenue |
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/mosanada)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/Mosanada)
 
 ---
 
@@ -158,7 +158,7 @@ CSV Upload → Dynamic Tables → AI JOIN Detection → English Question → SQL
 - Natural-language querying (English → SQL)
 - Auto-generated charts (bar, pie, line)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/insight-agent)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/Insight-Agent)
 
 ---
 
@@ -180,7 +180,7 @@ CSV Upload → Dynamic Tables → AI JOIN Detection → English Question → SQL
 
 **Features:** Product browsing · Cart · Checkout · Order tracking · Admin CRUD panel · JWT auth · Dark/light theme
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/ecommerce-mean)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/E-Commerce_By_MEAN-Stack)
 
 ---
 
