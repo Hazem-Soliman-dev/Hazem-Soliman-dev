@@ -2,12 +2,12 @@
 
 # Hey, I'm Hazem Soliman 👋
 
-**Software Engineer | Full-Stack Developer**
+**Full-Stack Developer**
 
-Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-integrated applications.
+Building production SaaS platforms, enterprise systems, and AI-integrated applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazem-soliman-swd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hazem-soliman-dev-swvazs6.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hazem-soliman-dev-swvazs6.gamma.site)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.soliman.dev@gmail.com)
 
 </div>
@@ -16,12 +16,12 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently interning remotely (Australia) at **Mega Serve** — working on the **Otasky** freelance marketplace
-- 🏗️ Previously built a **4-platform wholesale distribution ecosystem** at **Pencil Studio**
-- 🤖 Passionate about **AI integration** and making complex tech accessible
-- 🎓 Final-year **Business Information Systems** student at Capital University (Helwan)
-- 🌍 Based in **Giza, Egypt** — open to remote opportunities
-- 📫 Reach me at **hazem.soliman.dev@gmail.com**
+- 🏥 Currently building **MedFlow** at **XPilot** — SaaS medical platform with 5 dashboards
+- 🌍 Previously contributed to **Otasky** (live marketplace) and **KONTAINAR** (4-platform ERP/CRM)
+- 🤖 Passionate about **AI integration** and building tools people actually use
+- 🎓 **B.Sc. in Business Information Systems** — Capital University (Helwan), graduated 2026
+- 📍 Based in **Giza, Egypt** — open to remote opportunities
+- 📫 **hazem.soliman.dev@gmail.com**
 
 ---
 
@@ -36,6 +36,14 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+### Backend
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -45,20 +53,8 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### Databases & ORMs
+### Databases and ORMs
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -67,12 +63,15 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
-### Cloud & DevOps
+### Cloud and DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Integrations
@@ -80,6 +79,7 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ### AI
 
@@ -90,48 +90,50 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 
 ## 🚀 Featured Projects
 
+### 🏥 MedFlow — SaaS Medical Management Platform
+> Multi-tenant medical system with 5 dashboards
+
+**Stack:** NestJS · TypeScript · Prisma · PostgreSQL · Next.js · Zustand · React Query · Radix UI · Cloudinary · Twilio · Railway
+
+**What I built:**
+- Complete auth — register, login, email OTP, JWT refresh tokens, OAuth
+- RBAC for 5 roles (Patient, Doctor, Receptionist, Clinic Admin, Super Admin)
+- Clinic onboarding with dynamic Q&A
+- Inventory management with low-stock alerts
+- Staff availability with slot generation
+- CI/CD and Agile with designer and intern developer
+
+---
+
 ### 🏗️ KONTAINAR — Wholesale Distribution Ecosystem
-> 4-platform ERP/CRM and e-commerce ecosystem for wholesale distribution
+> 4-platform ERP/CRM and e-commerce system
 
 | Platform | Stack | Description |
 |----------|-------|-------------|
-| **Kontainar-Hub** | Next.js 16, TypeScript, Tailwind, Zustand | Trader/supplier portal with SSO, analytics, bilingual (AR/EN) |
-| **Kontainar-System** | React 19, Vite, Material-UI | Admin panel with product, brand, and order management |
-| **Hadoola-Store** | Next.js 15, TypeScript | Customer e-commerce with cart, checkout, order tracking |
-| **Backend API** | Laravel 12, MySQL, Redis, Sanctum | Centralized REST API with RBAC for 4 user types |
+| **Kontainar-Hub** | Next.js 16, TypeScript, Tailwind, Zustand | Trader/supplier portal — SSO, analytics, bilingual |
+| **Kontainar-System** | React 19, Material-UI | Admin panel — products, brands, orders |
+| **Hadoola-Store** | Next.js 15 | Customer e-commerce — cart, checkout |
+| **Backend API** | Laravel 12, MySQL, Redis | Centralized REST API — RBAC for 4 roles |
 
-**Highlights:** End-to-end order flow · Stock synchronization · Bilingual support · Query optimization with Redis caching
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/Kontainar_system)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/kontainar)
 
 ---
 
 ### 🏢 CRM Dashboard — Real Estate Lead Management
-> Enterprise CRM serving 13 real estate agents
+> Enterprise CRM for 13 agents
 
-**Stack:** Next.js 14 · TypeScript · Tailwind CSS · Radix UI · ShadCN · TanStack Table · Recharts · Zod · MySQL · JWT
+**Stack:** Next.js 14 · TypeScript · Tailwind · ShadCN · TanStack Table · Recharts · Zod · MySQL · JWT
 
-**Features:**
-- 6-stage lead pipeline (New → Contacted → Qualified → Viewing → Offer → Won/Lost)
-- Multi-currency support (EGP, USD, EUR, AED, SAR)
-- RBAC with 4 roles · Bilingual (Arabic RTL / English LTR)
-- TanStack Table data grids · Recharts analytics · Dark/light mode
+**Features:** 6-stage pipeline · Multi-currency (5 currencies) · RBAC (4 roles) · Bilingual (AR/EN) · Dark/light mode
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/CRM-Dashboard)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/crm-dashboard)
 
 ---
 
 ### 🏗️ Mosanada — Multi-Tenant SaaS Platform
 > Subscription management with double-entry bookkeeping
 
-**Stack:** NestJS · TypeScript · Prisma · PostgreSQL (Neon.tech) · JWT · Swagger · Vercel
-
-**Architecture:**
-- Multi-tenant with row-level isolation via `tenantId`
-- Double-entry bookkeeping with automated journal entries
-- Idempotent billing and revenue recognition
-- 17+ API endpoints covering full subscription lifecycle
-- Financial reports: Income Statement & Balance Sheet
+**Stack:** NestJS · TypeScript · Prisma · PostgreSQL · JWT · Swagger · Vercel
 
 | Event | Debit | Credit |
 |-------|-------|--------|
@@ -139,48 +141,44 @@ Building multi-platform SaaS ecosystems, enterprise ERP/CRM systems, and AI-inte
 | Payment Received | Cash | Accounts Receivable |
 | Revenue Recognized | Deferred Revenue | Subscription Revenue |
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/Mosanada)
+- Row-level tenant isolation
+- Idempotent billing
+- 17+ API endpoints
+- Financial reports (Income Statement, Balance Sheet)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/mosanada)
 
 ---
 
 ### 🤖 Insight Agent — AI Business Intelligence
-> Ask questions in plain English, get instant visualizations
+> Ask questions in English, get instant visualizations
 
-**Stack:** NestJS · Prisma · PostgreSQL · Groq SDK (Llama 3.3-70b) · Next.js 14 · ShadCN · Recharts
+**Stack:** NestJS · Prisma · PostgreSQL · Groq SDK (Llama 3.3-70b) · Next.js · ShadCN · Recharts
 
-**How it works:**
-CSV Upload → Dynamic Tables → AI JOIN Detection → English Question → SQL Query → Auto Visualization
+**Features:** CSV Upload → Dynamic Tables → AI JOIN Detection → English → SQL → Auto Charts
 
 
-**Features:**
-- Multi-file CSV upload with drag-and-drop
-- Smart JOIN detection — AI finds table relationships
-- Natural-language querying (English → SQL)
-- Auto-generated charts (bar, pie, line)
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/Insight-Agent)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/insight-agent)
 
 ---
 
 ### ✨ Prompt Refiner — AI Requirements Tool
-> Transform rough ideas into structured software specifications
+> Rough ideas → structured software specs
 
-**Stack:** Next.js 16 · TypeScript · Tailwind CSS · Groq AI (Llama 3.1-8b)
-
-**Output:** Goal → Target Audience → Value Proposition → Tone/Style → Suggested Sections
+**Stack:** Next.js · TypeScript · Tailwind CSS · Groq AI
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/prompt-refiner)
 
 ---
 
-### 🛒 E-Commerce — MEAN Stack Marketplace
-> Full e-commerce with customer storefront and admin dashboard
+### 🛒 E-Commerce — MEAN Stack
+> NTI Graduation Project — 100% Score
 
-**Stack:** Angular 19 · Node.js · Express · MongoDB · Mongoose · JWT · bcrypt · Multer · Bootstrap 5
+**Stack:** Angular · Node.js · Express · MongoDB · JWT · bcrypt · Multer
 
-**Features:** Product browsing · Cart · Checkout · Order tracking · Admin CRUD panel · JWT auth · Dark/light theme
+Solo-built customer storefront and admin dashboard.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/E-Commerce_By_MEAN-Stack)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/ecommerce-mean)
 
 ---
 
@@ -188,24 +186,21 @@ CSV Upload → Dynamic Tables → AI JOIN Detection → English Question → SQL
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
-| **Software Engineering Intern** | Mega Serve (Otasky) | 02/2026 – Present | Remote (Australia) |
+| **Full-Stack Developer** | XPilot (MedFlow) | 03/2026 – Present | Remote |
+| **Full-Stack Developer** | Mega Serve (Otasky) | 02/2026 – 03/2026 | Remote (Australia) |
 | **Full-Stack Developer** | Pencil Studio | 09/2025 – 02/2026 | Remote |
 | **Customer Services Trainee** | Banque Misr | 07/2023 – 08/2023 | On-site |
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-**B.Sc. Business Information Systems** — Capital University (Helwan)
-`2022 – 2026` · GPA: 82.67% (Very Good)
-
-| Certification | Provider | Details |
-|--------------|----------|---------|
-| React Web Development | DEPI | 200 Hours · Team Lead |
-| MEAN Stack Development | NTI | 120 Hours · Honors |
-| Backend Development | DSC Cairo University | 60 Hours |
-| Team Leadership | DEPI | — |
-| Business English | DEPI & Berlitz | — |
+| Institution | Program | Grade |
+|-------------|---------|-------|
+| Capital University (Helwan) | B.Sc. Business Information Systems (2022-2026) | 82.67% (Very Good) |
+| NTI | MEAN Stack Bootcamp (120h) | 100% (Honors) |
+| DEPI | React/MERN Bootcamp (200h) | Excellent |
+| DSC Cairo University | Backend Bootcamp (60h) | — |
 
 ---
 
@@ -213,9 +208,9 @@ CSV Upload → Dynamic Tables → AI JOIN Detection → English Question → SQL
 
 | Role | Organization | What I Did |
 |------|-------------|------------|
-| **Backend Mentor** | Microsoft Student Club (SCU) | Mentoring 20+ students on backend architecture and clean code |
-| **Team Leader** | Digitopia Hackathon 2025 | Led 5-member team building AI hiring solution in 48 hours |
-| **Group Leader** | DEPI | Coordinated 18-member group through React curriculum |
+| **Backend Mentor** | Microsoft Student Club (SCU) | Mentored 20+ students |
+| **Team Leader** | Digitopia Hackathon 2025 | Led 5-member team — MVP in 48h |
+| **Group Leader** | DEPI | Coordinated 18-member group |
 
 ---
 
@@ -237,7 +232,7 @@ CSV Upload → Dynamic Tables → AI JOIN Detection → English Question → SQL
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -257,26 +252,17 @@ CSV Upload → Dynamic Tables → AI JOIN Detection → English Question → SQL
 
 ---
 
-## 🧩 Core Concepts
-SaaS Architecture • Multi-tenancy • Multi-Platform Systems
-Double-Entry Bookkeeping • Clean Architecture • SOLID Principles
-Design Patterns • RBAC & SSO • Agile / Scrum
-REST API Design • Database Optimization • AI Integration
-
-
----
-
 <div align="center">
 
 ### 📬 Let's Connect
 
-I'm open to **full-time roles** as Software Engineer, Full-Stack Developer, Backend Developer, or Frontend Developer.
+Open to **Full-Stack Developer** and **Backend Developer** roles.
 
-**Remote** · **Hybrid** · **Relocation-friendly**
+**Remote** · **Hybrid** · **Available Immediately**
 
 [![Email](https://img.shields.io/badge/hazem.soliman.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazem.soliman.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazem-soliman-swd)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hazem-soliman-dev-swvazs6.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hazem-soliman-dev-swvazs6.gamma.site)
 
 ---
 
