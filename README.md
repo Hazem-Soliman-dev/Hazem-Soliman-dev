@@ -80,6 +80,8 @@ Building production SaaS platforms, enterprise systems, and AI-integrated applic
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Polar](https://img.shields.io/badge/Polar-1A1A1A?style=flat-square&logo=polar&logoColor=white)
 
 ### AI
 
