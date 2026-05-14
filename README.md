@@ -105,28 +105,30 @@ Building production SaaS platforms, enterprise systems, and AI-integrated applic
 
 ---
 
-### 🏗️ KONTAINAR — Wholesale Distribution Ecosystem
-> 4-platform ERP/CRM and e-commerce system
+### 📝 ProposliGo — AI Proposal Generator
+> Generate professional job proposals with AI
 
-| Platform | Stack | Description |
-|----------|-------|-------------|
-| **Kontainar-Hub** | Next.js 16, TypeScript, Tailwind, Zustand | Trader/supplier portal — SSO, analytics, bilingual |
-| **Kontainar-System** | React 19, Material-UI | Admin panel — products, brands, orders |
-| **Hadoola-Store** | Next.js 15 | Customer e-commerce — cart, checkout |
-| **Backend API** | Laravel 12, MySQL, Redis | Centralized REST API — RBAC for 4 roles |
+**Stack:** Next.js 16 · React 19 · TypeScript · Prisma · PostgreSQL · Clerk · Groq SDK · Polar · Tailwind CSS
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/kontainar)
+**Features:**
+- AI proposal generation with tone selection (aggressive, professional, concise)
+- Credit-based payment system with Polar
+- Clerk authentication and user management
+- Profile management with proposal history
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/proposligo)
 
 ---
 
-### 🏢 CRM Dashboard — Real Estate Lead Management
-> Enterprise CRM for 13 agents
+### 🤖 Insight Agent — AI Business Intelligence
+> Ask questions in English, get instant visualizations
 
-**Stack:** Next.js 14 · TypeScript · Tailwind · ShadCN · TanStack Table · Recharts · Zod · MySQL · JWT
+**Stack:** NestJS · Prisma · PostgreSQL · Groq SDK (Llama 3.3-70b) · Next.js · ShadCN · Recharts
 
-**Features:** 6-stage pipeline · Multi-currency (5 currencies) · RBAC (4 roles) · Bilingual (AR/EN) · Dark/light mode
+**Features:** CSV Upload → Dynamic Tables → AI JOIN Detection → English → SQL → Auto Charts
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/crm-dashboard)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/insight-agent)
 
 ---
 
@@ -150,24 +152,37 @@ Building production SaaS platforms, enterprise systems, and AI-integrated applic
 
 ---
 
-### 🤖 Insight Agent — AI Business Intelligence
-> Ask questions in English, get instant visualizations
-
-**Stack:** NestJS · Prisma · PostgreSQL · Groq SDK (Llama 3.3-70b) · Next.js · ShadCN · Recharts
-
-**Features:** CSV Upload → Dynamic Tables → AI JOIN Detection → English → SQL → Auto Charts
-
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/insight-agent)
-
----
-
 ### ✨ Prompt Refiner — AI Requirements Tool
 > Rough ideas → structured software specs
 
 **Stack:** Next.js · TypeScript · Tailwind CSS · Groq AI
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/prompt-refiner)
+
+---
+
+### 🏗️ KONTAINAR — Wholesale Distribution Ecosystem
+> 4-platform ERP/CRM and e-commerce system
+
+| Platform | Stack | Description |
+|----------|-------|-------------|
+| **Kontainar-Hub** | Next.js 16, TypeScript, Tailwind, Zustand | Trader/supplier portal — SSO, analytics, bilingual |
+| **Kontainar-System** | React 19, Material-UI | Admin panel — products, brands, orders |
+| **Hadoola-Store** | Next.js 15 | Customer e-commerce — cart, checkout |
+| **Backend API** | Laravel 12, MySQL, Redis | Centralized REST API — RBAC for 4 roles |
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/kontainar)
+
+---
+
+### 🏢 CRM Dashboard — Real Estate Lead Management
+> Enterprise CRM for 13 agents
+
+**Stack:** Next.js 14 · TypeScript · Tailwind · ShadCN · TanStack Table · Recharts · Zod · MySQL · JWT
+
+**Features:** 6-stage pipeline · Multi-currency (5 currencies) · RBAC (4 roles) · Bilingual (AR/EN) · Dark/light mode
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Hazem-Soliman-dev/crm-dashboard)
 
 ---
 
